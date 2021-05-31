@@ -39,7 +39,7 @@ public class GetPests extends AppCompatActivity {
         recyclerView2 = findViewById(R.id.recyclerView2);
 
 
-        String URL = "https://github.com/praatibhsurana/Farmera/blob/main/pestdata.xls?raw=true";
+        String URL = "https://github.com/devika-vinay/Farmera-v1.1.1/blob/master/Data/pestdata.xls?raw=true";
         //String apiURL = "https://bikashthapa01.github.io/excel-reader-android-app/";
         pestn = new ArrayList<>();
         pestg = new ArrayList<>();
